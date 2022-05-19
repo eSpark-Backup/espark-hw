@@ -1,0 +1,95 @@
+Change Component Description : Designator=X1 Old Description=4MHz ±100ppm 3mA 1.6V ~ 3.6V SMD7050-4P Oscillators ROHS New Description=4MHz ±100ppm 3mA 1.6V ~ 3.6V SMD7050-4P Oscillators ROHS
+
+Change Component Description : Designator=R5 Old Description=10kO Variable Resistors SMD New Description=10kO Variable Resistors SMD 
+Change component parameters: Designator = "R5" ("R5"); Footprint = "G43BT-B103"; UniqueID = "\BITDMQOT\UWTBNQEW" ("\BITDMQOT\UWTBNQEW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Tokyo Cosmos Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = " ±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Variable Resistors"; VariantName = "[No Variations]"
+Added Component: Designator=J2(AXT530124)
+Add component (AddParameter): Name = "Category"; Value = "Board to Board Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/0323_03238060?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/0323_03238060?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.mouser.com/ds/2/315/f4s-catalog-1075850.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.com/ds/2/315/f4s-catalog-1075850.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://components.arrow.com/part/dataview/46992153S8061598N2972?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://components.arrow.com/part/dataview/46992153S8061598N2972?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://panasonic-denko.co.jp/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?via=ok&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://panasonic-denko.co.jp/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?via=ok&src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://www3.panasonic.biz/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://panasonic-denko.co.jp/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?via=ok&src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://panasonic-denko.co.jp/ac/e_download/control/connector/base-fpc/catalog/con_eng_f4s.pdf?via=ok&src-supplier=Avnet+Asia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=80226&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=80226&src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.onlinecomponents.com/datasheet/axt530124.aspx?p=10552986&src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.onlinecomponents.com/datasheet/axt530124.aspx?p=10552986&src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "90mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AXT530124"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Stacking Heights"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.43000, 10=1.20900, 25=1.15960, 50=1.13500, 100=1.08570, 250=0.98700, 500=0.88830, 1000=0.78960 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "F4S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "14790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "255-2410-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "60V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AFGND Pin=J2-2
+Added Pin To Net: NetName=AVDD_2.8V Pin=J2-3
+Added Pin To Net: NetName=AGND Pin=J2-4
+Added Pin To Net: NetName=AF-VCC_2.8V Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=CAM_I2C_SCL Pin=J2-7
+Added Pin To Net: NetName=CAM_I2C_SDA Pin=J2-8
+Added Pin To Net: NetName=CAM_RESET Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=CAM_PWRDWN Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=CAM0_D1_P Pin=J2-16
+Added Pin To Net: NetName=CAM0_D1_N Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=CSI_CLK_P Pin=J2-19
+Added Pin To Net: NetName=CSI_CLK_N Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=CAM0_D0_P Pin=J2-22
+Added Pin To Net: NetName=CAM0_D0_N Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-24
+Added Pin To Net: NetName=CAM1_MCLK Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=DOVDD_1.8V Pin=J2-28
+Added Pin To Net: NetName=GND Pin=J2-29
+Added Pin To Net: NetName=CAM_IC_DETECT Pin=J2-30
+Added Pin To Net: NetName=GND Pin=J2-MP1
+Added Pin To Net: NetName=GND Pin=J2-MP2
+Added Pin To Net: NetName=GND Pin=J2-MP3
+Added Pin To Net: NetName=GND Pin=J2-MP4
+Added Member To Class: ClassName=U_Connector _Section Member=Component J2 AXT530124

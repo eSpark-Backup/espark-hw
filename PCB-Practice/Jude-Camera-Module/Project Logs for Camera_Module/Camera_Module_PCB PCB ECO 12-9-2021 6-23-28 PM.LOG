@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=5V Pin=R5-2
+Added Component: Designator=R5(G43BT-B103)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tokyo Cosmos Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = " ±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Variable Resistors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=5V Pin=R5-3
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=SB2-2
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=U_Connector _Section Member=Component X1 X1G004481005100

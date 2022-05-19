@@ -1,0 +1,9 @@
+Change Component Description : Designator=X1 Old Description=4MHz ±100ppm 3mA 1.6V ~ 3.6V SMD7050-4P Oscillators ROHS New Description=4MHz ±100ppm 3mA 1.6V ~ 3.6V SMD7050-4P Oscillators ROHS
+
+Change Component Description : Designator=R5 Old Description=10kO Variable Resistors SMD New Description=10kO Variable Resistors SMD 
+Change component parameters: Designator = "R5" ("R5"); Footprint = "G43BT-B103"; UniqueID = "\BITDMQOT\UWTBNQEW" ("\BITDMQOT\UWTBNQEW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Tokyo Cosmos Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = " ±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Variable Resistors"; VariantName = "[No Variations]"

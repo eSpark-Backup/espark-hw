@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=J3 Old Footprint=171826-4 New Footprint=X2510WRS-04-9TSN
+Change Component Comment : Designator=J3 Old Comment=171826-4 New Comment=X2510WRS-04-9TSN
+Change component parameters: Designator = "R5" ("R5"); Footprint = "G43BT-B103"; UniqueID = "\BITDMQOT\OWRELDFJ" ("\BITDMQOT\OWRELDFJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Tokyo Cosmos Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Variable Resistors"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "171826-4"; UniqueID = "\YMGLHEIL\GMCSBIIH" ("\YMGLHEIL\GMCSBIIH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XKB-Connectivity-X2510WRS-04-9TSN_C908468.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part No"; Value = "X2510WRS-04-9TSN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Added Room: Name=U_Connector _Section
+Added Room: Name=U_IR_Cut_Removal
+Added Room: Name=U_Level_Translation
+Added Room: Name=U_Power_Section
+Added Room: Name=U_Temperature_Sensor_Section
