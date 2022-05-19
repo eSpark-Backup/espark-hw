@@ -1,0 +1,197 @@
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found UCD1E471MNL1GS
+Add Component: Footprint Not Found UCD1E471MNL1GS
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found CAP-0603
+Add Component: Footprint Not Found DO-214AC
+Add Component: Footprint Not Found DO-214AC
+Add Component: Footprint Not Found SMA
+Add Component: Footprint Not Found SMB
+Add Component: Footprint Not Found HDR_F_1X7
+Add Component: Footprint Not Found HDR_F_1X4
+Add Component: Footprint Not Found HDR_F_1X2
+Add Component: Footprint Not Found HDR_F_1X4
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found HDR_F_1X7
+Add Component: Footprint Not Found HDR_F_1X7
+Add Component: Footprint Not Found 2305018-2
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found HDR_F_1X2
+Add Component: Footprint Not Found HDR_F_1X2
+Add Component: Footprint Not Found HDR_F_1X2
+Add Component: Footprint Not Found HDR_F_1X2
+Add Component: Footprint Not Found HDR_F_1X3
+Add Component: Footprint Not Found 74437368033
+Add Component: Footprint Not Found SLF10145T-100M2R5-PF
+Add Component: Footprint Not Found 74437368033
+Add Component: Footprint Not Found LTST-C170KSKT
+Add Component: Footprint Not Found 17-21/BHC-XL2M2TY/3T
+Add Component: Footprint Not Found LED 0805
+Add Component: Footprint Not Found LED 0402
+Add Component: Footprint Not Found LED 0402
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found Test point
+Add Component: Footprint Not Found sot-23
+Add Component: Footprint Not Found sot-23
+Add Component: Footprint Not Found sot-23
+Add Component: Footprint Not Found SuperSOT-3
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES 2010
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found RES-0603
+Add Component: Footprint Not Found Solder Bridge
+Add Component: Footprint Not Found B3U-1000P
+Add Component: Footprint Not Found ESP32-WROOM-32E(4MB)
+Add Component: Footprint Not Found LDF33DT-TR
+Add Component: Footprint Not Found SOT 23-6
+Add Component: Footprint Not Found TSOT-23-6
+Add Component: Footprint Not Found HX711
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found SOT-23-5
+Add Component: Footprint Not Found LT3652EDD#PBF
+Add Component: Footprint Not Found 6-TSOP
+Add Component: Footprint Not Found SSOP-3
+Add Component: Footprint Not Found SOT-23-5
+Added Net: Name=#BASE
+Added Net: Name=#INNA
+Added Net: Name=#INPA
+Added Net: Name=#RGB2
+Added Net: Name=#RGB
+Added Net: Name=#SERVO_2
+Added Net: Name=#SERVO
+Added Net: Name=#SW
+Added Net: Name=#V FB
+Added Net: Name=ACTUATOR1_SIG.AMP_OUT
+Added Net: Name=ACTUATOR1_SIG.PD_SCK
+Added Net: Name=AVDD#
+Added Net: Name=AVDD
+Added Net: Name=BAT_RST
+Added Net: Name=BLE_IND
+Added Net: Name=BOOT
+Added Net: Name=BUCK_EN
+Added Net: Name=CHRG
+Added Net: Name=DTR
+Added Net: Name=ENABLE
+Added Net: Name=FAULT
+Added Net: Name=GATE
+Added Net: Name=GND
+Added Net: Name=IN_NA
+Added Net: Name=IN_PA
+Added Net: Name=IO_0
+Added Net: Name=LED1
+Added Net: Name=MISO
+Added Net: Name=MOSI
+Added Net: Name=NetC11_2
+Added Net: Name=NetC21_2
+Added Net: Name=NetJ16_A5
+Added Net: Name=NetJ16_B5
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED2_1
+Added Net: Name=NetLED3_1
+Added Net: Name=NetLED4_2
+Added Net: Name=NetLED5_2
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ2_1
+Added Net: Name=NetR8_2
+Added Net: Name=NetR13_1
+Added Net: Name=NetR14_1
+Added Net: Name=NetR32_1
+Added Net: Name=OP_SNS
+Added Net: Name=R_PULL
+Added Net: Name=RFID_SIG.RST1
+Added Net: Name=RFID_SIG.RST2
+Added Net: Name=RFID_SIG.RST3
+Added Net: Name=RFID_SIG.SCK
+Added Net: Name=RFID_SIG.SS1
+Added Net: Name=RFID_SIG.SS2
+Added Net: Name=RFID_SIG.SS3
+Added Net: Name=RGB2
+Added Net: Name=RT#
+Added Net: Name=RTS
+Added Net: Name=RXD
+Added Net: Name=SENSE
+Added Net: Name=SENSOR_SIG.SNS_1
+Added Net: Name=SENSOR_SIG.SNS_2
+Added Net: Name=SENSOR_SIG.SNS_3
+Added Net: Name=SW
+Added Net: Name=TXD
+Added Net: Name=VBAT_IN
+Added Net: Name=VBAT
+Added Net: Name=VBUS_12V
+Added Net: Name=VCC_3V3
+Added Net: Name=VCC_5V
+Added Net: Name=VCC_IN
+Added Net: Name=VCC
+Added Net: Name=VFB
+Added Net: Name=VIN_1
+Added Net: Name=VIN_REG
+Added Class: Name=U_Actuator_Section2
+Added Class: Name=U_Actuator_Section
+Added Class: Name=U_Battery_Management_Section
+Added Class: Name=U_Buck_Regulator_Section
+Added Class: Name=U_Connector_Section
+Added Class: Name=U_Controller_Section
+Added Class: Name=U_LiFePo_Charging_Section
+Added Class: Name=U_MCU_Power_Section
+Added Class: Name=U_Sensor_Section
