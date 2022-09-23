@@ -80,6 +80,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGOKYPHQ
 
+[GeneratedDocument1]
+DocumentPath=Centralize.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Centralize.doc
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Centralize.rep
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
