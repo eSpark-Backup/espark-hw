@@ -1,0 +1,49 @@
+bradfairman-dolbyatmos
+Elevate your audio experience with our state-of-the-art hardware designed to support Dolby Atmos. This sleek, compact device delivers immersive, 3D sound, filling your room with rich, multi-dimensional audio. Perfect for movie enthusiasts and audiophiles, it features advanced signal processing and upward-firing speakers, ensuring that every whisper, explosion, and musical note surrounds you from every direction. Easy to set up and compatible with various home entertainment systems, this sound bar transforms your living room into a personal cinema or concert hall. Enjoy clear dialogue, dynamic soundtracks, and powerful bass, all in one sophisticated package. The product is based off of the powerful i.MX6M Processor from NXP that delivers and meets the expectations.
+
+brendanbezuko-stm32pcb
+The right choice to make your world digital. The hardware is based on the power STM32 chipset and features a 7-segment LCD display to measure and display the results in a basic yet attractive manner. The potentiometer dial is processed by the STM32 to convert real world analog data to a digital format thus digitizing a wide range of applications.
+
+chadyhamze-wirelessgadget
+A cool and exciting audio speaker and wireless gadget that is fit for your day to day sound applications. The product features a decent quality speaker with a battery that can deliver just the right amount of backup. It further provides capability to connect audio jack to stream your audio applications directly from the speaker or even through Bluetooth Audio streaming. There is also means to select and play songs from a pre-stored playlist on the on-board SD card or update the playlist and sync it with your mobile phone.
+
+#christianraun-ethercatdesign
+A powerful product based on the infamous EtherCAT protocol. The product is a part of a large industrial system designed to produce large molds for giant structures and features and on-board smooth stepper drive mechanism that is driven by a Master Industrial HMI. The product houses a power LAN9255 MCU with built-in EtherCAT capabilities to receive and sync commands from the master HMI.
+
+drv8231breakout
+A small yet power breakout board to drive your motors. The motor drive can be easily hooked to any external MCU for master control such as an Arduino or STM32. Its capable of driving motor loads up to 3.7A which is very sufficient for many many motors out there and is small and easy to add in just about any application.
+
+elijahkorp-controlproject
+A control board for Redifarms that is fully comaptible with Arduino IDE and offers easy development. The system allows external control of AC / DC loads via on board relays and is capable of working with 110 / 220VAC loads and voltages. The product further features a dot matrix LCD display with a realtime clock to keep track and sync the product requirements.
+
+eyadkishawi-InterfaceBoard
+This is an interface board that compromises of various components and parts interlinked together to form a system. The board is capable of being powered via a battery input along with additional backup battery interface via a coin cell. It offers multiplexing and conversion between various different protocols and interfaces such as RS232 / RS485 / RGB interface for an LCD and control capabilities via on board controlling circuits.
+
+ezlo_thermostat
+Transform your existing thermostat system into a smart, connected device with our EzloPi ESP32-based upgrade module. This compact, powerful hardware integrates seamlessly with your current setup, adding advanced Wi-Fi and Bluetooth capabilities for remote monitoring and control via your smartphone or voice assistants. Enjoy features like automated scheduling, energy usage tracking, and personalized climate settings, all accessible through a user-friendly app. Designed for easy installation, this module brings modern convenience and energy efficiency to your home, allowing you to optimize comfort and reduce costs effortlessly.
+
+griffin-radarsystem-hw
+Enhance your safety and situational awareness with our cutting-edge rear-detection radar system. This compact device uses advanced radar technology to detect approaching individuals or objects from behind, providing real-time alerts to keep you informed. Ideal for personal security, cycling, and outdoor activities, it features a wide detection range and reliable performance in various environments. Easy to install and highly responsive, this radar system ensures you stay aware of your surroundings, offering peace of mind and added protection in your daily activities.
+
+hasanmehmood-motordriver
+Experience robust motor control with our high-power motor driver board, specifically designed to drive large single-phase AC motors. This versatile and durable board delivers precise control and reliable performance, making it ideal for industrial applications, HVAC systems, and heavy machinery. Equipped with advanced safety features and efficient heat dissipation, it ensures smooth operation and prolonged motor life. Easy to integrate and configure, our motor driver board simplifies the process of managing high-power AC motors, providing the power and control you need for demanding applications. The product further offers an additional line of control via means of an external RF remote.
+
+junaidalam-audioswitch
+Optimize your audio systems with our high-performance board that converts S/PDIF optical audio streams to I2S via a PCM IC and provides precise audio control using an STM32 microcontroller. This versatile board takes a single S/PDIF input and outputs the processed audio to one of four S/PDIF optical outputs, ensuring seamless distribution across multiple devices. Ideal for high-fidelity audio applications, it delivers superior sound quality and reliable performance. With easy integration and robust control capabilities, this board is perfect for professional audio setups and advanced home entertainment systems.
+
+malikwingfield-boneheadphones
+Enhance safety and communication on construction sites with our innovative bone conduction Bluetooth speaker. This cutting-edge device streams live audio wirelessly via Bluetooth and uses bone conduction technology to deliver sound directly through your bones, bypassing the eardrum. Perfect for environments where traditional headphones are impractical like construction sites, it allows workers to stay aware of their surroundings while receiving clear instructions and updates. Lightweight, comfortable, and designed for all-day wear, our speaker ensures that workers can stay connected and alert, improving both safety and productivity on the job site.
+
+matthewgraff-arduinomegapcb
+Monitor environmental parameters effortlessly with our DC-powered sensor board, designed to read various sensors, including pressure sensors, and report data via a 4G modem to the cloud. Ideal for both urban and remote locations, this versatile device ensures continuous and reliable operation with a stable DC power source. Equipped with multiple sensor interfaces, it provides real-time data collection and transmission for efficient monitoring and analysis. Perfect for applications such as agriculture, environmental monitoring, and smart cities, our board offers robust performance, easy installation, and secure cloud connectivity for comprehensive, hassle-free data management.
+
+Melih-SoundSensor
+Capture and analyze audio with precision using our smart sound sensor equipped with an 8-microphone array. Designed to read sound in a room and push data to the cloud, this advanced sensor offers superior acoustic monitoring and sound localization. Ideal for applications in smart homes, offices, and security systems, it ensures comprehensive coverage and high-fidelity audio capture. With real-time processing and cloud connectivity, you can access and analyze audio data from anywhere, enhancing situational awareness and enabling intelligent sound-based automation. Easy to integrate and highly reliable, our sound sensor is the perfect solution for modern audio monitoring needs.
+
+raafat-BLEproduct
+Experience seamless data monitoring and transmission with our miniature-sized BLE (Bluetooth Low Energy) sensor module. This versatile device is equipped to read both analog and IMU (Inertial Measurement Unit) data, offering comprehensive insights into various environmental parameters and motion dynamics. Perfectly suited for wearables, IoT devices, and smart gadgets, its compact size allows for discreet integration into any application. With BLE connectivity, data can be effortlessly transmitted to nearby devices or cloud platforms in real-time, enabling remote monitoring and analysis. Easy to deploy and highly efficient, our BLE sensor module is the ideal solution for compact, wireless data acquisition needs.
+
+robertMeares-VCU-BCU
+Elevate your audio experience and enhance your biking adventures with our specialized carrier board designed for the NXP compute module. Tailored for audio applications, this versatile board offers robust support for high-fidelity audio processing and playback. Whether you're streaming music or creating immersive soundscapes, our carrier board delivers exceptional sound quality and precise control.
+
+
